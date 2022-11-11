@@ -1,0 +1,14 @@
+{
+	"Categories" : [
+		{
+			"UID" : "CATEGORY_1",
+			"NAME" : "Category 1",
+			"CODE" : "6207da74e3414e9793a48d73cf1663ae"
+		},
+		{
+			"UID" : "CATEGORY_2",
+			"NAME" : "Category 2",
+			"CODE" : "b7bd06696d3e409d9eb95df9e05799df"
+		}
+	]
+}
